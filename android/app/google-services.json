@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "901392716655",
+    "project_id": "barber-587b7",
+    "storage_bucket": "barber-587b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901392716655:android:29a1f15c374ab9fa288e9a",
+        "android_client_info": {
+          "package_name": "com.barb.thebarber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901392716655-vfouosp2euhk8na1p4uqfqotoahd2mii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5XCemRurq6q_gS5EMwZET9uIyMJ7ohD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901392716655-vfouosp2euhk8na1p4uqfqotoahd2mii.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "901392716655-2h6spugg18129ha31jjhtt3p82qnoj68.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.thebarber"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
